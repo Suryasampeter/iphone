@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+
+.ads img{
+    height: 500px;
+    width: 500px;
+}
+
+.ads2{
+    background: black;
+
+}
+
+.ads2 img{
+    height: 500px;
+    width: 500px;
+}
+
+.ads3 img{
+    height: 500px;
+    width: 1500px;
+}
